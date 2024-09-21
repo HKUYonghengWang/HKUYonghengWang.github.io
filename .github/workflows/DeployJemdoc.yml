@@ -1,38 +1,20 @@
-name: Build and Deploy to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # 每次 push 到 main 分支时触发
-permissions:
-  contents: write
+      - main  # 当推送到 main 分支时触发部署
+
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code  # 第一步：检出代码
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Setup Python 2  # 设置 Python 2 环境
-        uses: actions/setup-python@v4
-        with:
-          python-version: '2.7'
-
-      - name: Install dependencies (if needed)  # 安装依赖
-        run: |
-          # 如果你的 Python 2 项目有依赖，使用 pip 安装
-          # pip install -r requirements.txt
-          echo "No dependencies needed for this project"
-
-      - name: enter /www
-      - run: cd www
-
-      - name: Run Python build script  # 运行 Python 2 编译脚本
-        run: python ../jemdoc.py -c jemdoc.conf -o ../html/  *.jemdoc
-
-      - name: Deploy to GitHub Pages  # 部署生成的文件到 GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./html  # 部署的文件夹
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}  # 使用内置的 GITHUB_TOKEN
+        publish_dir: ./html  # 将 html 目录作为发布源
