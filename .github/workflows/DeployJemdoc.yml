@@ -37,12 +37,11 @@ jobs:
         uses: MatteoH2O1999/setup-python@v4
         with:
           python-version: '2.7'
-
-      - name: enter /www
-        run: cd www
   
       - name: build project
-        run: python ../jemdoc.py -c jemdoc.conf -o ../html/  *.jemdoc
+        run: |
+          python ../jemdoc.py -c jemdoc.conf -o ../html/  *.jemdoc
+        working-directory: www
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
