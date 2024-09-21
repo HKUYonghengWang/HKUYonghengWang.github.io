@@ -34,7 +34,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Setup Python 2
-      - uses: LizardByte/setup-python-action@master
+      - uses: MatteoH2O1999/setup-python@v4
         with:
           python-version: '2.7'
 
