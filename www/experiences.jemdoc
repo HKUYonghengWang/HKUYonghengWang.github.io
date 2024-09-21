@@ -1,0 +1,45 @@
+# jemdoc: menu{MENU}{experiences.html}
+= Research Experience
+
+*Integrated Planning of Multi-Charging Facilities (MTCF) and Urban
+Distribution Network*, 2022.9-2024.7
+
+National Natural Science Foundation of China (52007123)
+
+- Carried out literature review on EV charging stations planning in urban distribution network.
+- Proposed a two-step equivalence relaxation approach for MTCF.
+- Proposed a dynamic traffic network model for autopilot EVs.
+- Proposed a stochastic planning model for urban distribution network based on spatio-temporal uncertainty of EVs.
+- Calculated and compared the costs of results in different case setting and anticipated congested traffic hubs.
+
+*Joint Planning of Active Distribution Network (ADN) and EV Charging
+Stations (EVCS)*, 2021.9-2022.8
+
+National Natural Science Foundation of China (52007123)
+
+- Constructed a comprehensive model for ADN and EVCS considering vehicle-to-grid and reactive power support.
+- Transformed the holistic problem (large-scale MISOCP) into two sub-problems (MILP and MISOCP), to improve
+solution efficiency.
+- Modelled multiple distributed generation resources (DGRs), including energy storage systems, photovoltaic, capac-
+itor banks, static var compensation, and on-load tap changer.
+- Analyzed the planning results of reactive power support of EVs and multiple DGRs in detail.
+
+== Professional Experience
+*Guangzhou Power Supply Bureau of the Southern Power Grid*, 2018.6-2018.9
+
+*/Customer Services Center/*
+
+- Collected feedback from electricity users in different regions of the power grid and composed a research report.
+- Coordinated with the maintenance department to promptly communicate information about faulty power lines and
+schedule regular maintenance.
+
+== Content Experience
+- *Second Prize* of 2019 National College Students Mathematical Contest in Modeling in Guangdong
+Province (Top 20%), 2019.4
+
+== Leadership Experience
+*Tsinghua University Student Union*, 2022.3-2022.12
+- Member, Practice Department
+
+*Tsinghua Shenzhen International Graduate School*, 2021.10-2022.8
+- Monitor, Electrical Engineering Class 21 
