@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main  # 每次 push 到 main 分支时触发
-
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
