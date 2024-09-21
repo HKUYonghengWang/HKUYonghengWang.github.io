@@ -33,10 +33,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v2
+      - name: Setup Python 2
+      - uses: LizardByte/setup-python-action@master
         with:
-          python-version: '2.70'
+          python-version: '2.7'
 
       - name: enter /www
         run: cd www
