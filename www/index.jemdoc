@@ -2,7 +2,9 @@
 = Yongheng Wang
 
 ~~~
-{}{img_left}{<a href="index.html"><img src="pic/wyh.jpg" alt="alt text" width="200px"></a>}{WIDTHpx}{200px}{IMGLINKTARGET}
+<a href="index.html">
+    <img src="pic/wyh.jpg" alt="Yongheng Wang" width="200px">
+</a>
 
 Ph.D. Student at Laboratory for Power Networks with High Renewables
 
