@@ -4,38 +4,35 @@
 
 == Research Experience
 
-*Integrated Planning of Multi-Charging Facilities (MTCF) and Urban
-Distribution Network*, 2022.9-2024.7
+*Integrated Planning of Multi-Charging Facilities (MTCF) and Urban Distribution Network*, 2022.9-2024.7
 
 National Natural Science Foundation of China (52007123)
 
-- Carried out literature review on EV charging stations planning in urban distribution network.
+- Conducted literature review on EV charging station planning in urban distribution networks.
 - Proposed a two-step equivalence relaxation approach for MTCF.
-- Proposed a dynamic traffic network model for autopilot EVs.
-- Proposed a stochastic planning model for urban distribution network based on spatio-temporal uncertainty of EVs.
-- Calculated and compared the costs of results in different case setting and anticipated congested traffic hubs.
+- Developed a dynamic traffic network model for autonomous electric vehicles.
+- Formulated a stochastic planning model for urban distribution networks based on spatio-temporal uncertainty of EVs.
+- Evaluated and compared costs for different case settings, focusing on anticipated congested traffic hubs.
 
-*Joint Planning of Active Distribution Network (ADN) and EV Charging
-Stations (EVCS)*, 2021.9-2022.8
+*Joint Planning of Active Distribution Network (ADN) and EV Charging Stations (EVCS)*, 2021.9-2022.8
 
 National Natural Science Foundation of China (52007123)
 
 - Constructed a comprehensive model for ADN and EVCS considering vehicle-to-grid and reactive power support.
-- Transformed the holistic problem (large-scale MISOCP) into two sub-problems (MILP and MISOCP), to improve
-solution efficiency.
-- Modelled multiple distributed generation resources (DGRs), including energy storage systems, photovoltaic, capac-
-itor banks, static var compensation, and on-load tap changer.
-- Analyzed the planning results of reactive power support of EVs and multiple DGRs in detail.
+- Decomposed the holistic problem (large-scale MISOCP) into two sub-problems (MILP and MISOCP) to enhance solution efficiency.
+- Modeled multiple distributed generation resources (DGRs), including energy storage systems, photovoltaics, capacitor banks, static var compensators, and on-load tap changers.
+- Analyzed the planning results for reactive power support from EVs and multiple DGRs.
 
-*Simulation Analysis of Transient Thermal Effect of Ground Wire-suspension Clamp System*, 2019.9-2020.6
+*Simulation Analysis of Transient Thermal Effect of Ground Wire-Suspension Clamp System*, 2019.9-2020.6
 
 National Natural Science Foundation of China (51977083)
 
-- Build three-dimensional electromagnetic thermal coupling simulation model of ground wire-suspension clamp system wound by aluminium armour tape.
-- Calculated and analyzed the current density distribution and temperature distribution of the ground wire-suspension clamp system under the action of power frequency short-circuit current.
-- Analyzed the effects of different bolt torques on the temperature of heating bottleneck point of the ground wire.
+- Developed a three-dimensional electromagnetic thermal coupling simulation model for a ground wire-suspension clamp system wound with aluminum armor tape.
+- Calculated and analyzed current density and temperature distribution of the ground wire-suspension clamp system under power frequency short-circuit conditions.
+- Investigated the effects of different bolt torques on the temperature at the heating bottleneck of the ground wire.
 
 == Leadership Experience
+
 *Tsinghua University Student Union*, 2022.3-2022.12
 - Member, Practice Department
 
@@ -50,3 +47,4 @@ National Natural Science Foundation of China (51977083)
 
 *Art Group of SCUT*, 2017.7-2019.6
 - Leader, Host Team
+
