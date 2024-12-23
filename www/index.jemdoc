@@ -1,4 +1,3 @@
-# jemdoc: addcss{html_enabled.css}, showsource
 # jemdoc: menu{MENU}{index.html}, showsource
 = Yongheng Wang
 
@@ -45,10 +44,3 @@ My research focuses on the control and optimization of power systems, including 
 - Phone: (+852) 9823-1865
 - Email: yongheng@connect.hku.hk, wangyong21@mails.tsinghua.edu.cn
 - Address: Room 801, Chow Yei Ching Building, The University of Hong Kong, Hong Kong SAR.
-
-~~~html
-<div style="text-align: center; margin-top: 20px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=487eny22cGJNDCB79K94xpp3YbiK32bNW9r1rUWb8IA"></script>
-    <p style="font-size: 12px; color: #666;">Visitor Statistics by ClustrMaps</p>
-</div>
-~~~
