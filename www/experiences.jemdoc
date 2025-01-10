@@ -8,28 +8,26 @@
 
 National Natural Science Foundation of China (52007123)
 
-- Conducted literature review on EV charging station planning in urban distribution networks.
-- Proposed a two-step equivalence relaxation approach for MTCF.
-- Developed a dynamic traffic network model for autonomous electric vehicles.
-- Formulated a stochastic planning model for urban distribution networks based on spatio-temporal uncertainty of EVs.
-- Evaluated and compared costs for different case settings, focusing on anticipated congested traffic hubs.
+- Performed a comprehensive literature review on EV charging station planning in urban distribution networks.
+- Proposed a two-step equivalence relaxation method for MTCF and developed a dynamic traffic network model for autonomous EVs.
+- Formulated a stochastic planning model to address EV spatiotemporal uncertainties, analyzing costs across various scenarios, including congested traffic hubs.
 
 *Joint Planning of Active Distribution Network (ADN) and EV Charging Stations (EVCS)*, 2021.9-2022.8
 
 National Natural Science Foundation of China (52007123)
 
-- Constructed a comprehensive model for ADN and EVCS considering vehicle-to-grid and reactive power support.
-- Decomposed the holistic problem (large-scale MISOCP) into two sub-problems (MILP and MISOCP) to enhance solution efficiency.
-- Modeled multiple distributed generation resources (DGRs), including energy storage systems, photovoltaics, capacitor banks, static var compensators, and on-load tap changers.
-- Analyzed the planning results for reactive power support from EVs and multiple DGRs.
+- Established an integrated model for ADN and EVCS considering vehicle-to-grid and reactive power support.
+- Decomposed the large-scale MISOCP problem into MILP and MISOCP sub-problems to enhance solution efficiency.
+- Modeled distributed generation resources such as energy storage, photovoltaic systems, capacitor banks, static VAR compensators, and on-load tap changers.
+- Analyzed reactive power support planning results for EVs and multiple distributed generation resources.
 
 *Simulation Analysis of Transient Thermal Effect of Ground Wire-Suspension Clamp System*, 2019.9-2020.6
 
 National Natural Science Foundation of China (51977083)
 
-- Developed a three-dimensional electromagnetic thermal coupling simulation model for a ground wire-suspension clamp system wound with aluminum armor tape.
-- Calculated and analyzed current density and temperature distribution of the ground wire-suspension clamp system under power frequency short-circuit conditions.
-- Investigated the effects of different bolt torques on the temperature at the heating bottleneck of the ground wire.
+- Built a three-dimensional electromagnetic-thermal coupling simulation model for a ground wire-suspension clamp system wrapped with aluminum armor tape.
+- Analyzed current density and temperature distribution under power-frequency short-circuit currents.
+- Investigated the influence of different bolt torques on the ground wire’s peak temperature.
 
 == Leadership Experience
 
