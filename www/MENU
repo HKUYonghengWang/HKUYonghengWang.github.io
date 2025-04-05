@@ -7,5 +7,4 @@ Research
     Publications        [publications.html]
     Projects            [projects.html]
 
-    <!-- 插入校徽图片 -->
-    <img src="HKU.jpg" alt="HKU Logo" style="width: 100px; margin-top: 10px;">
+    <img src="pic/HKU.jpg" alt="HKU Logo" style="width: 100px; margin-top: 10px;">
