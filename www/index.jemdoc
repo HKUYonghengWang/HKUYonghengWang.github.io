@@ -4,6 +4,10 @@
 ~~~
 {}{img_left}{pic/wyh.jpg}{alt text}{WIDTHpx}{200px}{index.html}
 
+<!-- Add the university logo (SCUT.jpg) to the top-right -->
+<div style="position: absolute; top: 10px; right: 10px;">
+    <img src="pic/SCUT.jpg" alt="SCUT Logo" width="100px">
+</div>
 
 Yongheng Wang | 王永恒
 
@@ -23,7 +27,6 @@ The University of Hong Kong
 ~~~
 I am currently seeking collaborators for my project. Please don't hesitate to reach out if you're interested!
 ~~~
-
 
 == Research Interests
 My research focuses on the control and optimization of power systems, including the following topics:
