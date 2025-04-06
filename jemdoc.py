@@ -181,8 +181,11 @@ def standardconf():
   <table summary="Table for page layout." id="tlayout">
   <tr valign="top">
   <td id="layout-menu">
-  
+
   [menuend]
+  <div style="text-align: center; margin-top: 10px;">
+  <img src="pic/HK.jpg" width="100" alt="HK" />
+  </div>
   </td>
   <td id="layout-content">
   
@@ -208,6 +211,7 @@ def standardconf():
   </td>
   </tr>
   </table>
+
   
   [nomenulastbit]
   </div>
