@@ -183,9 +183,6 @@ def standardconf():
   <td id="layout-menu">
 
   [menuend]
-  <div style="text-align: center; margin-top: 10px;">
-  <img src="pic/HK.jpg" width="100" alt="HK" />
-  </div>
   </td>
   <td id="layout-content">
   

@@ -1,19 +1,19 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Yongheng Wang
-(Chinese Name: 王永恒)
 {{  
+    <div style="height: 30px"></div>
     <div style='position: absolute; top: 15px; left: 600px'>
-    <a href="#">
+    <a href="\#">
         <img src="pic/HKU.jpg" height="60"></img>
     </a>
     </div>
     <div style='position: absolute; top: 15px; left: 700px'>
-    <a href="#">
+    <a href="\#">
         <img src="pic/THU.jpg" height="60"></img>
     </a>
     </div>
     <div style='position: absolute; top: 15px; left: 800px'>
-    <a href="#">
+    <a href="\#">
         <img src="pic/SCUT.jpg" height="60"></img>
     </a>
     </div>
