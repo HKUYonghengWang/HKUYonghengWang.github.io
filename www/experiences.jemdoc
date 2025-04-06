@@ -1,35 +1,8 @@
 # jemdoc: menu{MENU}{experiences.html}
 
-= Experience
+= Services
 
-== Research Experience
-
-*Integrated Planning of Multi-Charging Facilities (MTCF) and Urban Distribution Network*, 2022.9-2024.7
-
-National Natural Science Foundation of China (52007123)
-
-- Performed a comprehensive literature review on EV charging station planning in urban distribution networks.
-- Proposed a two-step equivalence relaxation method for MTCF and developed a dynamic traffic network model for autonomous EVs.
-- Formulated a stochastic planning model to address EV spatiotemporal uncertainties, analyzing costs across various scenarios, including congested traffic hubs.
-
-*Joint Planning of Active Distribution Network (ADN) and EV Charging Stations (EVCS)*, 2021.9-2022.8
-
-National Natural Science Foundation of China (52007123)
-
-- Established an integrated model for ADN and EVCS considering vehicle-to-grid and reactive power support.
-- Decomposed the large-scale MISOCP problem into MILP and MISOCP sub-problems to enhance solution efficiency.
-- Modeled distributed generation resources such as energy storage, photovoltaic systems, capacitor banks, static VAR compensators, and on-load tap changers.
-- Analyzed reactive power support planning results for EVs and multiple distributed generation resources.
-
-*Simulation Analysis of Transient Thermal Effect of Ground Wire-Suspension Clamp System*, 2019.9-2020.6
-
-National Natural Science Foundation of China (51977083)
-
-- Built a three-dimensional electromagnetic-thermal coupling simulation model for a ground wire-suspension clamp system wrapped with aluminum armor tape.
-- Analyzed current density and temperature distribution under power-frequency short-circuit currents.
-- Investigated the influence of different bolt torques on the ground wire’s peak temperature.
-
-== Leadership Experience
+== Academic
 
 *Tsinghua University Student Union*, 2022.3-2022.12
 - Member, Practice Department
@@ -46,3 +19,18 @@ National Natural Science Foundation of China (51977083)
 *Art Group of SCUT*, 2017.7-2019.6
 - Leader, Host Team
 
+== Industry
+
+*China Southern Power Grid Company Limited*, 2018.6-2018.9
+
+Guangzhou Power Supply Bureau
+
+- Collected user feedback from multiple power grid regions, compiled a research report, and coordinated with the maintenance department to ensure timely fault communication and routine maintenance scheduling.
+
+*China Southern Power Grid Company Limited*, 2022.4-2022.12
+
+Shenzhen Power Supply Bureau (supervised by Chief Engineer [https://ieeexplore.ieee.org/author/37085559901 Yuming Zhao])
+
+- Researched EV business models, the Guangdong spot market, and electricity market clearing policies, producing an extensive review.
+- Contributed to two technology projects on multi-type user plug-and-play smart terminals and large-scale EV-to-grid interactions.
+- Assisted with administrative tasks such as project architecture optimization, document editing, and data collection.
