@@ -1,23 +1,22 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Yongheng Wang
-{{  
-    <div style="height: 30px"></div>
-    <div style='position: absolute; top: 15px; right: 250px'>
-    <a href="\#">
-    <img src="pic/HKU.jpg" height="60"></img>
+<div style="height: 30px"></div>
+<div style='position: absolute; top: 15px; right: 250px'>
+    <a href="https://www.hku.hk/">
+        <img src="pic/HKU.jpg" height="60"></img>
     </a>
-    </div>
-    <div style='position: absolute; top: 15px; right: 150px'>
-    <a href="\#">
-    <img src="pic/THU.jpg" height="60"></img>
+</div>
+<div style='position: absolute; top: 15px; right: 150px'>
+    <a href="https://www.tsinghua.edu.cn/en/">
+        <img src="pic/THU.jpg" height="60"></img>
     </a>
-    </div>
-    <div style='position: absolute; top: 15px; right: 50px'>
-    <a href="\#">
-    <img src="pic/SCUT.jpg" height="60"></img>
+</div>
+<div style='position: absolute; top: 15px; right: 50px'>
+    <a href="https://www.scut.edu.cn/en/">
+        <img src="pic/SCUT.jpg" height="60"></img>
     </a>
-    </div>
-}}
+</div>
+
 
 ~~~
 {}{img_left}{pic/wyh.jpg}{alt text}{WIDTHpx}{200px}{index.html}
