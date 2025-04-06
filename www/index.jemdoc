@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Yongheng Wang
 {{  
+    <div style="height: 30px"></div>
     <div style='position: absolute; top: 15px; right: 250px'>
     <a href="\#">
     <img src="pic/HKU.jpg" height="60"></img>
