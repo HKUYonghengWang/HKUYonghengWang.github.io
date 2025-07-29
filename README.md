@@ -1,18 +1,20 @@
-# README
+Launch GitHub Desktop and switch to the main branch (or the branch you are working on).
 
-## How to compile this project
+Click Fetch origin to synchronize with the remote repository.
 
-1. Open the github desktop
-2. Update "push"
-3. Then Fetch origin
-4. Then open in Subline Text
-5. Tehn open in Folder
-6. In the page of Folder ，chose www，and open the terminal
-7. Then run the code below:
-  ```
-  conda activate py2
-  python ../jemdoc.py -c jemdoc.conf -o ../html/  *.jemdoc
-  ```
-8. Open html，chose index.html，see the results
-9. After updating, open the github desktop，input the name of summery
-10. At last, Chose the push，finishing the process
+Open the project in Sublime Text: Repository → Open in Sublime Text.
+
+In Sublime’s sidebar, right-click the www/ folder and choose Open in Terminal (or open a terminal and cd into www/).
+
+Activate the Python 2 environment and generate the HTML files:
+
+bash
+conda activate py2
+python ../jemdoc.py -c jemdoc.conf -o ../html/ *.jemdoc
+Navigate to the html/ directory and double-click index.html to preview the site locally in your browser.
+
+After verifying your changes, return to GitHub Desktop, enter a concise commit message (e.g., “Update content and rebuild site”), and click Commit to main.
+
+Finally, click Push origin to upload the commit and trigger the GitHub Pages deployment workflow.
+
+Deployment will complete automatically; visit https://hkuyonghengwang.github.io/ to confirm the updated site.
