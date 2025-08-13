@@ -60,10 +60,4 @@ My research focuses on the control and optimization of power systems, including 
 - Address: Room 801, Chow Yei Ching Building, The University of Hong Kong, Hong Kong SAR.
 
 == Visitors
-== Visitors
-<script type="text/javascript">
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = "//clustrmaps.com/map_v2.js?d=uyjSuZgAeBIIx1DAu0aG-2A9j6bWo5CVwcbOEnQSL-E&cl=ffffff&w=200";
-    document.getElementsByTagName('head')[0].appendChild(script);
-</script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uyjSuZgAeBIIx1DAu0aG-2A9j6bWo5CVwcbOEnQSL-E&cl=ffffff&w=200"></script>
