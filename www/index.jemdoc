@@ -61,9 +61,15 @@ My research focuses on the control and optimization of power systems, including 
 
 == Visitors
 {{<div style="text-align:center; margin-top:16px;">
-  <div style="font-size:90%; opacity:.8; margin-bottom:8px;">
-    Visitor Map
-  </div>
-  <script type="text/javascript" id="clustrmaps" 
+  <div style="font-size:90%; opacity:.8; margin-bottom:8px;">Visitor Map</div>
+  <script type="text/javascript" id="clustrmaps"
     src="https://clustrmaps.com/map_v2.js?d=YOUR_TOKEN_HERE"></script>
 </div>}}
+
+{{<noscript>
+  <a href="https://www.clustrmaps.com/map/YOUR_PROFILE_ID" title="Visitor map">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=YOUR_TOKEN_HERE" alt="Visitor map" />
+  </a>
+</noscript>}}
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=487eny22cGJNDCB79K94xpp3YbiK32bNW9r1rUWb8IA&cl=ffffff&w=a"></script>
