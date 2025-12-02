@@ -1,30 +1,37 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Yongheng Wang
-
-{{<div style="display:flex; justify-content:flex-end; align-items:center; gap:16px; margin-top:5px; margin-bottom:15px;">
+{{<div style="height: 30px"></div>
+<div style='position: absolute; top: 15px; right: 350px'>
     <a href="https://www.hku.hk/">
-        <img src="pic/HKU.jpg" alt="HKU" height="48">
+        <img src="pic/HKU.jpg" height="60">
     </a>
+</div>
+<div style='position: absolute; top: 15px; right: 250px'>
     <a href="https://www.tsinghua.edu.cn/en/">
-        <img src="pic/THU.jpg" alt="Tsinghua University" height="48">
+        <img src="pic/THU.jpg" height="60">
     </a>
+</div>
+<div style='position: absolute; top: 15px; right: 150px'>
     <a href="https://www.scut.edu.cn/en/">
-        <img src="pic/SCUT.jpg" alt="SCUT" height="48">
+        <img src="pic/SCUT.jpg" height="60">
     </a>
+</div>
+<div style='position: absolute; top: 15px; right: 50px'>
     <a href="https://www.imperial.ac.uk/">
-        <img src="pic/IC.jpg" alt="Imperial College London" height="48">
+        <img src="pic/IC.jpg" height="60">
     </a>
 </div>}}
 
 ~~~
-{}{img_left}{pic/YonghengWang.jpg}{Photo of Yongheng Wang}{180px}{220px}{index.html}
+{}{img_left}{pic/YonghengWang.jpg}{alt text}{WIDTHpx}{200px}{index.html}
 
-*Yongheng Wang* (王永恒)
+Yongheng Wang | 王永恒
 
-Ph.D. Student, Department of Electrical and Electronic Engineering  
-[https://www.hku.hk/ The University of Hong Kong]
+Ph.D. Student
 
-My research focuses on the control and optimization of power systems with high penetrations of renewable energy and power electronic devices.
+Department of Electrical and Electronic Engineering
+
+The University of Hong Kong
 
 \[[https://scholar.google.com/citations?user=Wa3Ey9YAAAAJ&hl=en&oi=sra Google Scholar]\]
 \[[https://www.linkedin.com/in/yongheng-wang-a12793322/?locale=en_US LinkedIn]\]
@@ -33,11 +40,13 @@ My research focuses on the control and optimization of power systems with high p
 ~~~
 
 == Research Interests
+
 My research interests include:
 - Distribution network planning with high penetrations of renewable energy and electric vehicles.
 - Stability analysis and control of power systems with large-scale power electronic integration.
 
 == Recent News
+
 - 2024-09-01 — Started my Ph.D. program in Electrical Engineering at The University of Hong Kong.
 - 2024-06-28 — Master's thesis selected as an “Outstanding Thesis” at Tsinghua University (Top 5%).
 - 2024-06-24 — Graduated from Tsinghua University as an Outstanding Master's Graduate (Top 2%).
@@ -48,6 +57,7 @@ My research interests include:
 - /"A rose by any other name would smell as sweet."/ — William Shakespeare  
 
 == Contacts
+
 - Phone: (+852) 9823-1865
 - Email: yongheng@connect.hku.hk (primary); wangyong21@mails.tsinghua.edu.cn
 - Address: Room 801, Chow Yei Ching Building, The University of Hong Kong, Hong Kong SAR
