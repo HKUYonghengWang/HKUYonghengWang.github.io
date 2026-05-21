@@ -33,20 +33,10 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Setup Python 2
-        uses: MatteoH2O1999/setup-python@v4
-        with:
-          python-version: '2.7'
-  
-      - name: build project
-        run: |
-          python ../jemdoc.py -c jemdoc.conf -o ../html/  *.jemdoc
-        working-directory: www
-      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
+          # Upload the generated static site.
           path: './html'
           
   # Single deploy job since we're just deploying
