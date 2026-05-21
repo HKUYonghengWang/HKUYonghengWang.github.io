@@ -9,7 +9,7 @@ A MATLAB/MATPOWER research prototype for passivity-based small-signal stability 
 
 \[[static/software/HKU_ECE_PassivityWorkbench_v3.0.zip Download]\]
 \[[https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stability-Workbench Code]\]
-\[[https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stability-Workbench/blob/main/CITATION.cff Citation]\]
+\[[https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stabil ity-Workbench/blob/main/CITATION.cff Citation]\]
 \[[https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stability-Workbench/blob/main/LICENSE.txt License]\]
 
 *Requirements.* MATLAB R2022b or newer, MATPOWER, and Control System Toolbox. Installation and examples are provided in the GitHub README.
