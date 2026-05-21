@@ -1,6 +1,72 @@
 /* Extra css file for personal jemdoc customizations. */
 /* Copyright (C) Jacob Mattingley 2007. */
 
+body {
+	color: #222;
+	font-size: 15px;
+	line-height: 1.5;
+}
+
+#layout-menu {
+	background: #f7f8fa;
+	border-color: #e1e4e8;
+	font-size: 1.0em;
+	padding-top: 0.8em;
+	width: 165px;
+}
+
+#layout-menu a {
+	line-height: 1.7em;
+}
+
+#layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #1f3558;
+	font-weight: bold;
+	border-bottom: 1px solid #9aa8bd;
+}
+
+div.menu-category {
+	color: #1f3558;
+	border-bottom: 1px solid #d8dee4;
+	font-weight: bold;
+	margin-top: 1.0em;
+	padding-bottom: 0.18em;
+}
+
+div.menu-item {
+	padding-top: 0.05em;
+	padding-bottom: 0.05em;
+}
+
+#layout-content {
+	max-width: 940px;
+	padding-left: 1.6em;
+	padding-right: 1.8em;
+	padding-top: 0.4em;
+}
+
+.school-logos {
+	float: right;
+	margin-top: -2.7em;
+	white-space: nowrap;
+}
+
+.school-logos img {
+	height: 42px;
+	margin-left: 14px;
+	vertical-align: middle;
+}
+
+table.imgtable {
+	margin-top: 0.4em;
+	margin-bottom: 1.2em;
+}
+
+table.imgtable img {
+	border: 1px solid #d8dee4;
+	border-radius: 2px;
+}
+
 a, a > tt {
 	color: #305080;
 }
@@ -10,15 +76,32 @@ a:hover {
 
 div#toptitle {
 	margin-bottom: 1.3em;
-	border-bottom: 1px solid #c0c0c0;
+	border-bottom: 1px solid #d8dee4;
 }
 
 h1, h2, h3, #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #203060;
+	color: #1f3558;
 }
 
 h1, h2, h3 {
-	border-bottom: 1px solid #c0c0c0;
+	border-bottom: 1px solid #d8dee4;
+	letter-spacing: 0;
+}
+
+h1 {
+	font-size: 190%;
+}
+
+h2 {
+	margin-top: 1.1em;
+}
+
+p {
+	line-height: 1.45;
+}
+
+li p {
+	line-height: 1.42;
 }
 
 div#footer-text {

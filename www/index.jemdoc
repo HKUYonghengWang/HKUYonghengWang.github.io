@@ -1,29 +1,22 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Yongheng Wang
-{{<div style="height: 30px"></div>
-<div style='position: absolute; top: 15px; right: 350px'>
+{{<div class="school-logos">
     <a href="https://www.hku.hk/">
-        <img src="pic/HKU.jpg" height="60">
+        <img src="pic/HKU.jpg" alt="The University of Hong Kong">
     </a>
-</div>
-<div style='position: absolute; top: 15px; right: 250px'>
     <a href="https://www.tsinghua.edu.cn/en/">
-        <img src="pic/THU.jpg" height="60">
+        <img src="pic/THU.jpg" alt="Tsinghua University">
     </a>
-</div>
-<div style='position: absolute; top: 15px; right: 150px'>
     <a href="https://www.scut.edu.cn/en/">
-        <img src="pic/SCUT.jpg" height="60">
+        <img src="pic/SCUT.jpg" alt="South China University of Technology">
     </a>
-</div>
-<div style='position: absolute; top: 15px; right: 50px'>
     <a href="https://www.imperial.ac.uk/">
-        <img src="pic/IC.jpg" height="60">
+        <img src="pic/IC.jpg" alt="Imperial College London">
     </a>
 </div>}}
 
 ~~~
-{}{img_left}{pic/YonghengWang.jpg}{alt text}{WIDTHpx}{200px}{index.html}
+{}{img_left}{pic/YonghengWang.jpg}{Yongheng Wang}{}{190px}{index.html}
 
 Yongheng Wang | 王永恒
 
@@ -41,26 +34,26 @@ The University of Hong Kong
 
 == Research Interests
 
-My research interests include:
-- Distribution network planning with high penetrations of renewable energy and electric vehicles.
-- Stability analysis and control of power systems with large-scale power electronic integration.
+My research focuses on:
+- Stability analysis and control of power systems with large-scale power-electronic integration.
+- Distribution network planning with renewable energy, energy storage, and electric vehicles.
+- Data-driven and optimization-based methods for low-carbon energy systems.
 
 == Recent News
 
 - 2026-05-06 — Completed the probationary review for the Ph.D. program at The University of Hong Kong.
-- 2026-01-19 — Received the Best Paper Award at 2026 IEEE PES international meeting.
-- 2024-06-28 — Master's thesis selected as an “Outstanding Thesis” at Tsinghua University (Top 5%).
+- 2026-01-19 — Received the Best Paper Award at the 2026 IEEE PES International Meeting.
+- 2024-06-28 — Master's thesis selected as an Outstanding Thesis at Tsinghua University (Top 5%).
 - 2024-06-24 — Graduated from Tsinghua University as an Outstanding Master's Graduate (Top 2%).
 - 2023-10-11 — Received the First-Class Scholarship at Tsinghua University (Top 5%).
 
-== Favorite Quotes
-- /"Knowledge is power."/ — Francis Bacon  
-- /"A rose by any other name would smell as sweet."/ — William Shakespeare  
+== Mottos
+- /Impasse precedes epiphany./  
 
 == Contacts
 
+- Email: yongheng@connect.hku.hk
 - Phone: (+852) 9823-1865
-- Email: yongheng@connect.hku.hk (primary); wangyong21@mails.tsinghua.edu.cn
 - Address: Room 801, Chow Yei Ching Building, The University of Hong Kong, Hong Kong SAR
 
 == Visitors
