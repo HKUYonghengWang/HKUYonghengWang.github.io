@@ -1,20 +1,38 @@
-Launch GitHub Desktop and switch to the main branch (or the branch you are working on).
+# Yongheng Wang - Academic Website
 
-Click Fetch origin to synchronize with the remote repository.
+This repository hosts the source files and deployed static pages for the academic website of **Yongheng Wang**, a Ph.D. candidate in Electrical and Computer Engineering at **The University of Hong Kong**.
 
-Open the project in Sublime Text: Repository → Open in Sublime Text.
+Website: [https://hkuyonghengwang.github.io/](https://hkuyonghengwang.github.io/)
 
-In Sublime’s sidebar, right-click the www/ folder and choose Open in Terminal (or open a terminal and cd into www/).
+## About
 
-Activate the Python 2 environment and generate the HTML files:
+The website presents research interests, publications, projects, software, notes, academic service, and contact information. The current research focus is on:
 
-bash
-conda activate py2
-python ../jemdoc.py -c jemdoc.conf -o ../html/ *.jemdoc
-Navigate to the html/ directory and double-click index.html to preview the site locally in your browser.
+- small-signal stability analysis and control of converter-dominated power systems;
+- passivity- and dissipativity-based methods for power-electronic-interfaced networks;
+- planning and operation of active distribution networks with renewable energy, energy storage, and electric vehicles.
 
-After verifying your changes, return to GitHub Desktop, enter a concise commit message (e.g., “Update content and rebuild site”), and click Commit to main.
+## Repository Structure
 
-Finally, click Push origin to upload the commit and trigger the GitHub Pages deployment workflow.
+```text
+www/                    Jemdoc source files and menu configuration
+html/                   Generated static website served by GitHub Pages
+html/static/            CV, notes, software packages, and other static files
+.github/workflows/      GitHub Pages deployment workflow
+jemdoc.py               Jemdoc generator used by the site
+```
 
-Deployment will complete automatically; visit https://hkuyonghengwang.github.io/ to confirm the updated site.
+## Updating the Website
+
+Edit the source files in `www/`, then regenerate the static pages:
+
+```bash
+cd www
+python2 ../jemdoc.py -c jemdoc.conf -o ../html/ *.jemdoc
+```
+
+Preview the generated pages in `html/`, commit both the source and generated HTML files, and push to `main`. GitHub Pages deploys the committed static site automatically.
+
+## Notes
+
+This repository is maintained primarily as an academic website rather than a general-purpose software package. Research software is listed on the website's [Softwares](https://hkuyonghengwang.github.io/software.html) page and, when appropriate, in separate GitHub repositories.
