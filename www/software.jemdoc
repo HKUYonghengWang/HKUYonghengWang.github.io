@@ -3,7 +3,7 @@
 
 == HKU ECE Passivity-Based Stability Workbench
 
-*Yongheng Wang, Xiemin Mo, and Tao Liu*. Version 3.0, 2026.
+*Yongheng Wang, Xiemin Mo, and Tao Liu*. Version 3.0, 2025.
 
 A MATLAB/MATPOWER research prototype for passivity-based small-signal stability screening and virtual-shunt passivation of converter-dominated power systems. The release includes a graphical workbench and a reproducible IEEE 39-bus no-grounding case study.
 
