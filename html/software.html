@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="jacob.css" type="text/css" />
+<title>Software</title>
+</head>
+<body>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2725246-3']);
+_gaq.push(['_trackPageview']);
+(function() {
+ var ga = document.createElement('script'); ga.type =
+ 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+   : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0];
+ s.parentNode.insertBefore(ga, s);
+ })();
+</script>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">About me</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="biography.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="projects.html">Projects</a></div>
+<div class="menu-item"><a href="software.html" class="current">Software</a></div>
+<div class="menu-item"><a href="services.html">Services</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Software</h1>
+</div>
+<h2>HKU ECE Passivity-Based Stability Workbench</h2>
+<p><b>Yongheng Wang, Xiemin Mo, and Tao Liu</b>. Version 3.0, 2026.</p>
+<p>A MATLAB/MATPOWER research prototype for decentralized passivity-based small-signal stability screening and local virtual-shunt passivation of converter-dominated power systems. The package provides a graphical workbench, a numerical backend, and a reproducible IEEE 39-bus no-grounding case study.</p>
+<p>[<a href="static/software/HKU_ECE_PassivityWorkbench_v3.0.zip">Download</a>]
+[<a href="https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stability-Workbench">Code</a>]
+[<a href="https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stability-Workbench/blob/main/CITATION.cff">Citation</a>]
+[<a href="https://github.com/HKUYonghengWang/HKU-ECE-Passivity-Based-Stability-Workbench/blob/main/LICENSE.txt">License</a>]</p>
+<p><b>Requirements.</b> MATLAB R2022b or newer is recommended; MATPOWER and Control System Toolbox are required.</p>
+<p><b>Main files.</b></p>
+<ul>
+<li><p>launch_hku_passivity_workbench.m: GUI launcher.</p>
+</li>
+<li><p>src/HKU_ECE_PassivityWorkbenchApp.m: MATLAB app.</p>
+</li>
+<li><p>src/hku_passivity_engine.m: numerical backend.</p>
+</li>
+<li><p>demo/hku_case39_no_ground_demo.m: paper-style IEEE 39-bus demo.</p>
+</li>
+<li><p>examples/run_case39_no_ground_demo.m: minimal demo runner.</p>
+</li>
+</ul>
+<p><b>Quick start.</b></p>
+<div class="codeblock">
+<div class="blockcontent"><pre>
+addpath(genpath('path_to_matpower'));
+addpath('path_to/HKU_ECE_PassivityWorkbench_v3.0');
+launch_hku_passivity_workbench
+</pre></div></div>
+<p><b>Recommended citation.</b> If you use this software, please cite the associated passivity-based decentralized stability study and the software metadata in CITATION.cff.</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2026-05-21 10:41:43 HKT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
