@@ -119,3 +119,23 @@ div.blockcontent {
 div#footer-text {
     padding-bottom: 8px;
 }
+
+.visitor-counter {
+	margin-top: 0.7em;
+	margin-bottom: 1.2em;
+	line-height: 0;
+}
+
+.visitor-counter a {
+	display: inline-block;
+	padding: 8px 10px;
+	background: #ffffff;
+	border: 1px solid #d8dee4;
+	border-radius: 2px;
+}
+
+.visitor-counter img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
