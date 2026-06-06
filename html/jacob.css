@@ -123,6 +123,8 @@ div#footer-text {
 .visitor-counter {
 	margin-top: 0.7em;
 	margin-bottom: 1.2em;
+	display: flex;
+	justify-content: center;
 	text-align: center;
 	line-height: 0;
 }
